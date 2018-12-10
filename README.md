@@ -26,6 +26,10 @@ Syntax highlighted code block
 
 ![Image](img/gdelt-map.jpg)
 
+[Link](img/us.html)
+
+![Image](img/us.html)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
