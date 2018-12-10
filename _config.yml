@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 title: Emotions in Conflict
 description: "Let's get emotional, we already got physical.."
-"header-img": "img/gdelt-map.jpg"
+header: "img/gdelt-map.jpg"
